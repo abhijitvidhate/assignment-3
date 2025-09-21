@@ -1,0 +1,8 @@
+aws_region        = "us-east-1"
+vpc_cidr_block    = "10.0.0.0/16"
+instance_type     = "t3.micro"
+ami_id            = "ami-0c94855ba95c71c99" 
+db_instance_class = "db.t3.micro"
+db_name           = "dashboarddb"
+db_username       = "admin"
+db_password       = "Admin@123!"
